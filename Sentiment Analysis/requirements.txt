@@ -1,0 +1,7 @@
+streamlit 
+textblob 
+vaderSentiment 
+cleantext 
+matplotlib 
+seaborn 
+altair                                                                     
